@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512197398449",
+    "project_id": "ecommerce-23a42",
+    "storage_bucket": "ecommerce-23a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512197398449:android:a08cc07a3b3e65c7c57790",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_riverpod_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4trM3jUqdB-F74FxamaTBJfRahdQVtcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
